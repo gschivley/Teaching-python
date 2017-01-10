@@ -7,8 +7,6 @@ An introduction to Python for someone who already knows some programming (e.g. M
 - Using and managing Python packages
 - Basic Python objects (heavily influenced by Jake VanderPlas' [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython/tree/master/))
 
-[Watch the session](https://www.youtube.com/watch?v=DtVUgC5uNLI)
-
 [Video available on youtube](https://youtu.be/DtVUgC5uNLI)
 
 ## Pandas
