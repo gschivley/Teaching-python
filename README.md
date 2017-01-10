@@ -7,7 +7,27 @@ An introduction to Python for someone who already knows some programming (e.g. M
 - Using and managing Python packages
 - Basic Python objects (heavily influenced by Jake VanderPlas' [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython/tree/master/))
 
+[Watch the session](https://www.youtube.com/watch?v=DtVUgC5uNLI)
+
 [Video available on youtube](https://youtu.be/DtVUgC5uNLI)
 
 ## Pandas
-Using Pandas for importing/exporting and working with data.
+Using Pandas for importing/exporting and working with data. The two sessions cover mostly the same material.
+- Importing CSV and Excel files as DataFrames
+- Examining the `head()`, `tail()`. `dtypes`, and `columns` of a dataframe to make sure everything looks like it should
+- Using `groupby` to sum all units within a facility
+- Writing small functions to use with `apply()`
+- Boolean indexing
+- Joining dataframes with `merge()`
+
+[Watch session one](https://youtu.be/Uuzc2iRupa0)
+[Watch session two](https://youtu.be/Jy6dc62jJrc)
+
+## Exploratory visualization
+Learn about different types of data and plots. Based on the [tutorial](https://github.com/gschivley/Visualization-tutorial) I wrote.
+- Tidy data
+- Types of plots
+  - Distributions
+  - Regressions
+  - Categorical
+- Using `factorplot` and `FacetGrid` to create small multiples
