@@ -18,7 +18,7 @@ Using Pandas for importing/exporting and working with data. The two sessions cov
 - Boolean indexing
 - Joining dataframes with `merge()`
 
-[Watch session one](https://youtu.be/Uuzc2iRupa0)
+[Watch session one](https://youtu.be/Uuzc2iRupa0)  
 [Watch session two](https://youtu.be/Jy6dc62jJrc)
 
 ## Exploratory visualization
