@@ -29,3 +29,9 @@ Learn about different types of data and plots. Based on the [tutorial](https://g
   - Regressions
   - Categorical
 - Using `factorplot` and `FacetGrid` to create small multiples
+
+## Machine learning with scikit-learn
+I didn't cover machine learning, but try the links below if you're intersted learning about it
+
+- [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos)
+- [scikit-learn cheat sheet](https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.pYTV1M0)
